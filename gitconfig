@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elena.schubert.es@gmail.com
+	name = Elena Schubert
